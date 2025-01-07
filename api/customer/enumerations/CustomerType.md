@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [customer](../index.md) / CustomerType
 
-# CustomerType
+# Enumeration: CustomerType
 
 Enum representing different customer types.
 These classifications help tailor services and benefits according to customer loyalty and value.

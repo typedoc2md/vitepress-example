@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [billing](../index.md) / BillingService
 
-# BillingService
+# Class: BillingService
 
 Service for managing billing transactions.
 Provides functionality to process and retrieve billing transactions.
@@ -47,7 +47,9 @@ This simulates the transaction execution and storage in a production environment
 
 #### Parameters
 
-• **transaction**: [`BillingTransaction`](../interfaces/BillingTransaction.md)
+##### transaction
+
+[`BillingTransaction`](../interfaces/BillingTransaction.md)
 
 The billing transaction to be processed.
 

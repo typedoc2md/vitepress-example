@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [products](../index.md) / ProductReview
 
-# ProductReview
+# Interface: ProductReview
 
 Interface representing a product review.
 

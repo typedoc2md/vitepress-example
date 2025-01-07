@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [customer](../index.md) / CustomerService
 
-# CustomerService
+# Class: CustomerService
 
 Service for managing customers.
 
@@ -31,15 +31,21 @@ Add a new customer.
 
 #### Parameters
 
-• **customer**: [`Customer`](../interfaces/Customer.md)
+##### customer
+
+[`Customer`](../interfaces/Customer.md)
 
 The customer to be added.
 
-• **contactInfo**: [`CustomerContact`](../interfaces/CustomerContact.md)
+##### contactInfo
+
+[`CustomerContact`](../interfaces/CustomerContact.md)
 
 The contact information for the customer.
 
-• **billingInfo**: [`CustomerBilling`](../interfaces/CustomerBilling.md)
+##### billingInfo
+
+[`CustomerBilling`](../interfaces/CustomerBilling.md)
 
 The billing information for the customer.
 
@@ -77,7 +83,9 @@ Get a customer account by ID.
 
 #### Parameters
 
-• **customerId**: `string`
+##### customerId
+
+`string`
 
 The ID of the customer.
 

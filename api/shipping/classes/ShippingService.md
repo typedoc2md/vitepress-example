@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [shipping](../index.md) / ShippingService
 
-# ShippingService
+# Class: ShippingService
 
 Service for managing shipping records.
 Provides methods to handle the logistics of order shipments, including recording and tracking shipments.
@@ -47,7 +47,9 @@ This method simulates the action of shipping an order in a real-world scenario.
 
 #### Parameters
 
-• **shipment**: [`ShippingRecord`](../interfaces/ShippingRecord.md)
+##### shipment
+
+[`ShippingRecord`](../interfaces/ShippingRecord.md)
 
 The shipment record to be added.
 

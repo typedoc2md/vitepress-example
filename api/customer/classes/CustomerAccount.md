@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [customer](../index.md) / CustomerAccount
 
-# CustomerAccount
+# Class: CustomerAccount
 
 Class representing a customer account.
 Manages and integrates different aspects of customer data and interactions with the business.
@@ -20,15 +20,21 @@ Constructs a new CustomerAccount instance.
 
 #### Parameters
 
-• **customer**: [`Customer`](../interfaces/Customer.md)
+##### customer
+
+[`Customer`](../interfaces/Customer.md)
 
 Basic customer profile information.
 
-• **contactInfo**: [`CustomerContact`](../interfaces/CustomerContact.md)
+##### contactInfo
+
+[`CustomerContact`](../interfaces/CustomerContact.md)
 
 Contact details for the customer.
 
-• **billingInfo**: [`CustomerBilling`](../interfaces/CustomerBilling.md)
+##### billingInfo
+
+[`CustomerBilling`](../interfaces/CustomerBilling.md)
 
 Customer's billing information.
 
@@ -48,7 +54,9 @@ Adds a new order to the customer's historical record.
 
 #### Parameters
 
-• **order**: [`CustomerOrderHistory`](../interfaces/CustomerOrderHistory.md)
+##### order
+
+[`CustomerOrderHistory`](../interfaces/CustomerOrderHistory.md)
 
 The order to be added to the history.
 

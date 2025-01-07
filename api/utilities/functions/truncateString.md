@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [utilities](../index.md) / truncateString
 
-# truncateString()
+# Function: truncateString()
 
 ```ts
 function truncateString(input, maxLength): string
@@ -10,11 +10,15 @@ Function to truncate a string to a specified length.
 
 ## Parameters
 
-• **input**: `string`
+### input
+
+`string`
 
 The input string.
 
-• **maxLength**: `number`
+### maxLength
+
+`number`
 
 The maximum length of the truncated string.
 

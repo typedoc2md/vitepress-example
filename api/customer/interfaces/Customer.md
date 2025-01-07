@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [customer](../index.md) / Customer
 
-# Customer
+# Interface: Customer
 
 Interface representing a customer.
 Stores comprehensive details about a customer necessary for various business operations.

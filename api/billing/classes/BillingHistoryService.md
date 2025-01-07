@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [billing](../index.md) / BillingHistoryService
 
-# BillingHistoryService
+# Class: BillingHistoryService
 
 Service for managing billing history.
 Provides functionality to store and retrieve the history of transactions.
@@ -30,7 +30,9 @@ This method is typically called after a transaction is completed to maintain a r
 
 #### Parameters
 
-• **transaction**: [`BillingTransaction`](../interfaces/BillingTransaction.md)
+##### transaction
+
+[`BillingTransaction`](../interfaces/BillingTransaction.md)
 
 The billing transaction to be added to the history.
 

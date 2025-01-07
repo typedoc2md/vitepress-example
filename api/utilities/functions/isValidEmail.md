@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [utilities](../index.md) / isValidEmail
 
-# isValidEmail()
+# Function: isValidEmail()
 
 ```ts
 function isValidEmail(email): boolean
@@ -10,7 +10,9 @@ Function to check if a value is a valid email address.
 
 ## Parameters
 
-• **email**: `string`
+### email
+
+`string`
 
 The email address to be validated.
 

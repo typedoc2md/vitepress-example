@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [billing](../index.md) / BillingReceiptService
 
-# BillingReceiptService
+# Class: BillingReceiptService
 
 Service for generating billing receipts.
 Provides functionality to generate and retrieve receipts for transactions.
@@ -30,7 +30,9 @@ Each receipt includes a unique ID and timestamp, essential for record-keeping an
 
 #### Parameters
 
-• **transaction**: [`BillingTransaction`](../interfaces/BillingTransaction.md)
+##### transaction
+
+[`BillingTransaction`](../interfaces/BillingTransaction.md)
 
 The billing transaction for which to generate a receipt.
 

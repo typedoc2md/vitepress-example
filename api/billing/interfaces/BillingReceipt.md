@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [billing](../index.md) / BillingReceipt
 
-# BillingReceipt
+# Interface: BillingReceipt
 
 Interface representing a billing receipt.
 Provides a record of the transaction for both the customer and the business.

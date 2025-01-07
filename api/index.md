@@ -1,4 +1,4 @@
-# API Reference
+# dummy-typescript-api
 
 ## Modules
 

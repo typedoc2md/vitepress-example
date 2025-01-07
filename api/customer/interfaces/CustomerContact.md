@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [customer](../index.md) / CustomerContact
 
-# CustomerContact
+# Interface: CustomerContact
 
 Interface representing customer contact information.
 Essential for communication and service delivery.

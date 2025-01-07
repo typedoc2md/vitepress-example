@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [billing](../index.md) / TransactionStatus
 
-# TransactionStatus
+# Enumeration: TransactionStatus
 
 Enum representing different transaction statuses.
 These statuses indicate the current state of a billing transaction in the process pipeline.

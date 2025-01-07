@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [billing](../index.md) / BillingTransaction
 
-# BillingTransaction
+# Interface: BillingTransaction
 
 Interface representing a billing transaction.
 This structure encapsulates all key details of a financial transaction within the system.

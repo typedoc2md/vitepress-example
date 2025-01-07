@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [billing](../index.md) / PaymentMethod
 
-# PaymentMethod
+# Enumeration: PaymentMethod
 
 Enum representing different types of payment methods.
 These are used to specify the payment mechanism chosen by a customer.

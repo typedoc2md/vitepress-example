@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [products](../index.md) / Product
 
-# Product
+# Interface: Product
 
 Interface representing a product.
 Contains the essential identifiers and attributes of a product.

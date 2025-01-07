@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [customer](../index.md) / CustomerOrderHistory
 
-# CustomerOrderHistory
+# Interface: CustomerOrderHistory
 
 Interface representing a customer's order history.
 Useful for tracking past transactions and analyzing customer behavior.

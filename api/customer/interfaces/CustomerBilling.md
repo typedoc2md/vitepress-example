@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [customer](../index.md) / CustomerBilling
 
-# CustomerBilling
+# Interface: CustomerBilling
 
 Interface representing customer billing information.
 Used for processing payments and managing financial transactions.

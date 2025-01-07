@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [products](../index.md) / ProductDetails
 
-# ProductDetails
+# Interface: ProductDetails
 
 Interface representing product details.
 Extends the basic Product interface to include more comprehensive attributes for detailed product management.

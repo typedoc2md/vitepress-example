@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [utilities](../index.md) / shuffleArray
 
-# shuffleArray()
+# Function: shuffleArray()
 
 ```ts
 function shuffleArray<T>(array): T[]
@@ -14,7 +14,9 @@ Function to shuffle an array.
 
 ## Parameters
 
-• **array**: `T`[]
+### array
+
+`T`[]
 
 The array to be shuffled.
 

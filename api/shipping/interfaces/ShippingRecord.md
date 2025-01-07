@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [shipping](../index.md) / ShippingRecord
 
-# ShippingRecord
+# Interface: ShippingRecord
 
 Interface representing a shipping record.
 Defines the structure for storing and tracking information about shipments.

@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [utilities](../index.md) / generateUniqueId
 
-# generateUniqueId()
+# Function: generateUniqueId()
 
 ```ts
 function generateUniqueId(): string

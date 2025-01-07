@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [utilities](../index.md) / toTitleCase
 
-# toTitleCase()
+# Function: toTitleCase()
 
 ```ts
 function toTitleCase(input): string
@@ -10,7 +10,9 @@ Function to convert a string to title case.
 
 ## Parameters
 
-• **input**: `string`
+### input
+
+`string`
 
 The input string.
 

@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [utilities](../index.md) / formatCurrency
 
-# formatCurrency()
+# Function: formatCurrency()
 
 ```ts
 function formatCurrency(amount, currencyCode): string
@@ -11,11 +11,15 @@ Utilizes the Intl.NumberFormat API to handle locale-specific currency formatting
 
 ## Parameters
 
-• **amount**: `number`
+### amount
+
+`number`
 
 The numeric value to be formatted.
 
-• **currencyCode**: `string`
+### currencyCode
+
+`string`
 
 The ISO currency code (e.g., USD, EUR) to specify the currency.
 

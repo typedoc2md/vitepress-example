@@ -1,6 +1,6 @@
 [dummy-typescript-api](../../index.md) / [products](../index.md) / ProductCategory
 
-# ProductCategory
+# Enumeration: ProductCategory
 
 Enum representing different product categories.
 Helps categorize products into logical groupings for easier management and browsing.
